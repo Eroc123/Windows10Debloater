@@ -7,6 +7,8 @@ Script/Utility/Application to debloat Windows 10, to remove Windows pre-installe
 **WARNING:** I do **NOT** take responsibility for what may happen to your system! Run scripts at your own risk!
 Also, other variants of this repo are not technically "new" versions of this, but they are different in their own respective ways. There are some sites saying that other projects are "new" versions of this, but that is inaccurate. 
 
+Currently trying to port all this into python and tkinter
+
 ## How To Run the Windows10Debloater.ps1 and the Windows10DebloaterGUI.ps1 files
 
 There are different methods of running the PowerShell script. The methods are as follows:
